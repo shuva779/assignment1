@@ -213,9 +213,32 @@ font-weight: bold;
 color: white;
 }
 footer{
-    margin-top: 100px;
     background: #070211;
-height: 609px;
+height: 909px;
 flex-shrink: 0;
 background-position: center;
+}
+.f1{
+    color: white;
+    display: flex;
+}
+.f2{
+   width: 50%; 
+   padding: 200px;
+}
+.imgg{
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+}
+.f3{
+    display: flex;
+}
+hr{
+    border: 1px solid white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.fimg{
+    margin-left: 700px;
 }
