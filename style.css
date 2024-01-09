@@ -138,4 +138,35 @@ border: none;
     display: flex;
     gap: 10%;
 }
+.nextcont{
+    display: flex;
+    gap: 10%;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.uni{
+    width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
 
+
+
+
+padding: 10px 10px;
+
+
+border-radius: 463px;
+border: 15px solid #F00;
+}
+
+.new{
+    padding: 300px 300px;
+}
+.b2{
+   padding: 24px; 
+   width: 350px;
+height: 350px;
+flex-shrink: 0;
+border-radius: 16px;
+}
