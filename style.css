@@ -214,4 +214,8 @@ color: white;
 }
 footer{
     margin-top: 100px;
+    background: #070211;
+height: 609px;
+flex-shrink: 0;
+background-position: center;
 }
