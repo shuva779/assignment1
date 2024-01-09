@@ -134,3 +134,8 @@ line-height: 56px;
 color: #FFF;
 border: none;
 }
+.cont{
+    display: flex;
+    gap: 10%;
+}
+
